@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:00:03	64/64	---MCZ	200	added ('OK')	text/plain	etag:W/%22640986bd-30%22	https://bootstrapmade.com/robots.txt		(from )
+01:00:03	3846/3846	---MCZ	200	added ('OK')	text/html	date:Sun,%2020%20Aug%202023%2008:11:37%20GMT	https://bootstrapmade.com/demo/iPortfolio/	D:/GithubProjectUpload/bootstrapmade.com/demo/iPortfolio/index.html	(from )
